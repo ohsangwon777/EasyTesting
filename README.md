@@ -1,5 +1,5 @@
 EasyTesting.js
 ===
 
-For easy client testing tool.
-==
+Developing level easy client testing tool.
+
